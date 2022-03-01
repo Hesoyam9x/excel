@@ -1,0 +1,24 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JS Excel App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hesoyam9x/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Linar Saetgaraev <linarsaetgaraev@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hesoyam9x/excel/issues"
+  },
+  "homepage": "https://github.com/Hesoyam9x/excel#readme"
+}
